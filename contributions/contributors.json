@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Sally McGrath",
+        "github": "SallyMcGrath",
+        "message": "Hello World!"
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "github": "JohnDoe",
+        "message": "Your message here!"
+    }
+]
