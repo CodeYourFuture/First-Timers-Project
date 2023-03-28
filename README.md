@@ -63,12 +63,24 @@ Let's go on an adventure. Let's find some Open Source projects to contribute to.
 
 ## Requirements
 
+1. Fork this repository
+2. Create a branch called `add-your-name`
+3. Add your name to the list of contributors
+4. Commit your changes
+5. Push your changes to your fork
+6. Open a Pull Request
+7. Meet the requirements of the project, as defined by the maintainer
+8. Have your Pull Request merged
+
 ## Acceptance Criteria
 
-- [ ] I have provided clear success criteria
-- [ ] These might be related to the objectives and the requirements
-- [ ] I have given some simple, clear ways for trainees to evaluate their work
-- [ ] I have run Lighthouse and my Accessibility score is 100
+- [ ] I have forked this repository
+- [ ] I have created a branch called `add-your-name`
+- [ ] I have added my name to the list of contributors
+- [ ] I have committed my changes
+- [ ] I have pushed my changes to my fork
+- [ ] I have opened a Pull Request
+- [ ] I have met the requirements of the project, as defined by the maintainer
 
 ## Resources
 
