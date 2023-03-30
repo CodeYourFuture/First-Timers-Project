@@ -17,16 +17,14 @@ If your PR is rejected, check the task list.
 
 Self checklist
 
+- [ ] I have forked this repository
+- [ ] I have created a branch called `add-yournamehere`
+- [ ] I have added my name to the list of contributors
 - [ ] I have committed my files one by one, on purpose, and for a reason
-- [ ] I have titled my PR with COHORT_NAME | FIRST_NAME LAST_NAME | REPO_NAME
-- [ ] I have tested my changes
-- [ ] My changes follow the [style guide](https://syllabus.codeyourfuture.io/guides/code-style-guide/)
-- [ ] My changes meet the [requirements](./README.md) of this task
+- [ ] I have opened a Pull Request from my branch on my fork to this repository's `main` branch
+- [ ] I have titled my PR with COHORT_NAME | FIRST_NAME LAST_NAME | First-Timers-Project
+- [ ] I have met the requirements of the project, as defined by the maintainer
 
 ## Changelist
 
-Briefly explain your PR.
-
-## Questions
-
-Ask any questions you have for your reviewer.
+Please define Open Source in 150 words or fewer.
