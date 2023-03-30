@@ -58,28 +58,45 @@ Let's go on an adventure. Let's find some Open Source projects to contribute to.
 ## Learning Objectives
 
 - [ ] Define Open Source
-- [ ] Fork three Open Source projects
+- [ ] Fork two Open Source projects
 - [ ] Contribute to an Open Source project
 
 ## Requirements
 
+<details>
+<summary>
+Step 1: Contribute to a OSS project
+</summary>
+
+This is a OSS Project! You can contribute to it by following these steps:
+
 1. Fork this repository
-2. Create a branch called `add-your-name`
+2. Create a branch called `add-yournamehere` where yournamehere is your own name
 3. Add your name to the list of contributors
 4. Commit your changes
 5. Push your changes to your fork
 6. Open a Pull Request
 7. Meet the requirements of the project, as defined by the maintainer
 8. Have your Pull Request merged
+</details>
+
+<details>
+<summary>Step 2: Contribute to a non-CYF OSS project</summary>
+
+1. Find an Open Source project that you can make a useful contribution to
+2. A good place to start is [First Timers Only](https://www.firsttimersonly.com/)
+3. Fork the project and make a contribution. It might be documentation, it might be code, it might be a bug fix, it might be a feature request. It doesn't matter. Just make a useful contribution.
+4. Remember, you are a developer. You can contribute to any project, not just CYF projects. Represent us with honour.
+</details>
 
 ## Acceptance Criteria
 
 - [ ] I have forked this repository
-- [ ] I have created a branch called `add-your-name`
+- [ ] I have created a branch called `add-yournamehere` where yournamehere is your name
 - [ ] I have added my name to the list of contributors
 - [ ] I have committed my changes
 - [ ] I have pushed my changes to my fork
-- [ ] I have opened a Pull Request
+- [ ] I have opened a Pull Request from my branch on my fork to this repository's `main` branch
 - [ ] I have met the requirements of the project, as defined by the maintainer
 
 ## Resources
