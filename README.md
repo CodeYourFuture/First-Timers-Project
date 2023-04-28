@@ -106,3 +106,4 @@ This is a OSS Project! You can contribute to it by following these steps:
 - [ ] [First Timers Only](https://www.firsttimersonly.com/)
 - [ ] [First Contributions](https://firstcontributions.github.io/)
 - [ ] [How to Contribute to React](https://reactjs.org/docs/how-to-contribute.html)
+- [ ] [Contributing to Open Source](https://www.youtube.com/watch?v=CML6vfKjQss)
